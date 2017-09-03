@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+date: 2017-09-03
+img: megafon.png
+alt: image-alt
+project-date: TBD
+client: Megafon App
+category: Aplikacja mobilna
+title: Megafon
+short: Zamieni telefon w głośnik, żeby osoby stojące daleko na zgromadzeniu mogły coś słyszeć
+description: |
+  Ok tak można zrobić więcej?
+  linii i nawet jest ok z zawijaniem
+  <b>Tagi działają</b>
+  meh.
+---

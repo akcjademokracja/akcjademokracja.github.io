@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2017-09-03
+img: namiary.png
+alt: image-alt
+project-date: TBD
+client: 
+category: Aplikacja mobilna
+title: Namiary
+short: Skompletujmy dane kontaktowe o politykach, urzędnikach i instytucjach.
+description: |
+  Ok tak można zrobić więcej?
+  linii i nawet jest ok z zawijaniem
+  <b>Tagi działają</b>
+  meh.
+---

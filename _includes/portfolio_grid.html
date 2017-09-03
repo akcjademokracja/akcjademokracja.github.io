@@ -4,7 +4,38 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Zostań technowolontariusz(ką|em)!</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                  <p>
+                    Jest tyle pomysłów, które chcielibyśmy zrealizować, żeby
+                    jeszcze lepiej wspierać aktywistów Akcji Demokracji w
+                    działaniu na rzecz praw człowieka, sprawiedliwości
+                    socjoekonomicznej, demokracji i środowiska! Niestety nasz
+                    zespół technologiczny jest ograniczony. Teraz możesz nam
+                    pomóc! Szukamy nie tylko osób, które potrafią programować.
+                    Jeżeli potrafisz
+                    <a href="https://ifttt.com/applets/zksqZWJ3-airtable-telegram" target="_blank">
+                    kreatywnie wykorzystać dostepne narzędzia</a>, jeżeli
+                    potrafisz tłumaczyć interfejsy lub przetwarzać i analizować
+                    arkusze dane (choćby w Excelu), zgłoś się do nas!
+                  </p>
+
+                  <p>
+
+                  </p>
+
+                  <p><br/></p>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Propozycje projektów</h2>
                     <hr class="star-primary">
                 </div>
             </div>
@@ -14,7 +45,8 @@
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
+                                  <h1>{{ post.title }}</h1>
+                                  <p>{{ post.short}}</p>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
