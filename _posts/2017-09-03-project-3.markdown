@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2017-09-03
+img: czatuj.png
+alt: image-alt
+project-date: TBD
+client: 
+category: Aplikacja webowa w python
+title: Czatuj
+short: Węzeł sieci Riot.im, który jest zintegrowany z systemami Akcji Demokracji
+description: |
+  Ok tak można zrobić więcej?
+  linii i nawet jest ok z zawijaniem
+  <b>Tagi działają</b>
+  meh.
+---
