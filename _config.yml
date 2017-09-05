@@ -62,3 +62,5 @@ credits: ' <div>Ikony zostały pobrany z <a href="https://www.flaticon.com/" tit
 markdown: kramdown
 permalink: pretty
 
+
+theme: jekyll-theme-minimal
