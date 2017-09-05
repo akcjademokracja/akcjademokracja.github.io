@@ -199,6 +199,10 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success a {
+    color: #F00600;
+}
+
 section#portfolio p {
     color: black;
 }
@@ -472,6 +476,10 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.portfolio-modal a {
+    color: #F00600;
 }
 
 .navbar-nav>.active>a {

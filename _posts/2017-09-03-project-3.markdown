@@ -1,17 +1,22 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2017-09-03
 img: czatuj.png
 alt: image-alt
 project-date: TBD
-client: 
-category: Aplikacja webowa w python
+technologies: android, ios, python
+category: Aplikacje mobilne oraz webowe do sieci Riot
 title: Czatuj
 short: Węzeł sieci Riot.im, który jest zintegrowany z systemami Akcji Demokracji
 description: |
-  Ok tak można zrobić więcej?
-  linii i nawet jest ok z zawijaniem
-  <b>Tagi działają</b>
-  meh.
+  Uruchomiliśmy węzeł bezpiecznego, sfederowanego komunikatora <a href="https://riot.im" target="_blank">Riot.im</a>, w domenie <a href="https://czatuj.naszademokracja.pl">https://czatuj.naszademokracja.pl</a> dla aktywistek i aktywistów <a href="https://naszademokracja.pl">Naszej Demokracji</a>.
+  
+  Z komunikatora można korzystać za pomocą klienta webowego (<a
+  href="https://github.com/vector-im/riot-web">riot-web</a>) oraz aplikacji mobilnych na Android i
+  iOS (<a href="https://github.com/vector-im/riot-android">riot-android</a> i <a href="https://github.com/vector-im/riot-ios">riot-ios</a>).
+  
+  Poszukujemy technowolontariuszy którzy potrafią pracować z aplikacjami mobilnymi (Android czy iOS), żeby dodać funkcjonalności ułatwiające korzystanie z komunikatora aktywistom Naszej Demokracji oraz zbudować wersję tych aplikacji z tymi funkcjami. 
+  
+  Poszukujemy także osób znających python do stworzenia integracji serwera Riot <a href="https://github.com/matrix-org/synapse">Synapse</a> z naszymi systemami.
 ---

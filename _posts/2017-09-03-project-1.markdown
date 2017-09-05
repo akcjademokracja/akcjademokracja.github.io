@@ -5,13 +5,13 @@ date: 2017-09-03
 img: megafon.png
 alt: image-alt
 project-date: TBD
-client: Megafon App
+technologies: HTML5, aplikacje webowe na komórki, android?, ios?
 category: Aplikacja mobilna
 title: Megafon
 short: Zamieni telefon w głośnik, żeby osoby stojące daleko na zgromadzeniu mogły coś słyszeć
 description: |
-  Ok tak można zrobić więcej?
-  linii i nawet jest ok z zawijaniem
-  <b>Tagi działają</b>
-  meh.
+  <p>Zdarza się, że na dużej demonstracji ktoś stoi tak daleko, że nie słyszy nic, co mówią organizatorzy. Niestety nagłośnienie wydarzeń na otwartym powietrzu nie jest proste. Dlatego chcielibyśmy stworzyć aplikację mobilną <i>Megafon</i>, która zamieni telefony w tłumie w małe głośniki. Aplikacja pobierałaby strumień audio wysyłany przez ogranizatorów, oraz odtwarzała go w sposób zsynchronizowany z zegarem, tak, aby kilka megafonów działających na raz wspierało się nawzajem.
+  </p>
+  <p>Inną funkcją, jaką mógłaby pełnić aplikacja <i>Megafon</i> jest możliwość komentowania lub głosowania przez osoby uczestniczące w demonstracji. Wtedy moglibyśmy dać uczestnikom głos w kompletnie nowy sposób!</p>
+  <p>Aplikacja mogłaby być <a href="https://developers.google.com/web/progressive-web-apps/">aplikacją webową</a>, której można używać bez instalacji.</p>
 ---

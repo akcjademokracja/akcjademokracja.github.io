@@ -5,13 +5,25 @@ date: 2017-09-03
 img: namiary.png
 alt: image-alt
 project-date: TBD
-client: 
+technologies: crowdsourcing, google spreadsheet, airtable, SQL, screen scraping, inne?
 category: Aplikacja mobilna
 title: Namiary
 short: Skompletujmy dane kontaktowe o politykach, urzędnikach i instytucjach.
 description: |
-  Ok tak można zrobić więcej?
-  linii i nawet jest ok z zawijaniem
-  <b>Tagi działają</b>
-  meh.
+
+  <p>W naszych kampaniach staramy się ułatwić zwykłym ludziom kontakt z
+  urzędnikami, politykami lub przedstawicieli instytucji. Może to być kontakt
+  korespondencyjny, emailowy, telefoniczny. W tym celu potrzebujemy bazy danych
+  decydentów: z afiliacjami, adresami email oraz korespondencyjnymi, numerami
+  telefonów.</p>
+  
+  <p>Technika skompletowania danych może być dowolna: kampania crowdfundingowa,
+  wykorzystanie danych udostępnianych przez <a
+  href="https://mojepanstwo.pl/">serwis MojePaństwo</a>, wykorzystanie danych z
+  oficjalnych stron rządowych, lub inna. Można wykorzystać narzędzia takie jak
+  <a href="https://airtable.com">Airtable</a>, Google Forms/Spreadsheets, lub
+  inne. Format, w którym tych danych docelowo potrzebujemy, to format relacyjnej
+  bazy danych SQL.</p>
+  
 ---
+
