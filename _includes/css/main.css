@@ -199,7 +199,7 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-section.success a {
+section a {
     color: #F00600;
 }
 

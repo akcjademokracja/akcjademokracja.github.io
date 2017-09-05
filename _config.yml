@@ -33,13 +33,13 @@ color:
 # Footer settings
 footer:
   copyright: Akcja Demokracja
-  location: Location text
-  social: Around the Web
-  credits: Credits
+  location: Adres
+  social: W sieci
+  credits: Podziękowania
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Akcja Demokracja
+  - title: twitter
     url: https://twitter.com/AkcjaDemokracja
   - title: facebook
     url: https://facebook.com/AkcjaDemokracja
