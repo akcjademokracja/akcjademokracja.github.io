@@ -10,7 +10,7 @@ category: Aplikacja mobilna
 title: Megafon
 short: Zamieni telefon w głośnik, żeby osoby stojące daleko na zgromadzeniu mogły coś słyszeć
 description: |
-  <p>Zdarza się, że na dużej demonstracji ktoś stoi tak daleko, że nie słyszy nic, co mówią organizatorzy. Niestety nagłośnienie wydarzeń na otwartym powietrzu nie jest proste. Dlatego chcielibyśmy stworzyć aplikację mobilną <i>Megafon</i>, która zamieni telefony w tłumie w małe głośniki. Aplikacja pobierałaby strumień audio wysyłany przez ogranizatorów, oraz odtwarzała go w sposób zsynchronizowany z zegarem, tak, aby kilka megafonów działających na raz wspierało się nawzajem.
+  <p>Zdarza się, że na dużej demonstracji ktoś stoi tak daleko, że nie słyszy nic z tego, co mówią organizatorzy. Niestety nagłośnienie wydarzeń na otwartym powietrzu nie jest proste. Dlatego chcielibyśmy stworzyć aplikację mobilną <i>Megafon</i>, która zamieni telefony w tłumie w małe głośniki. Aplikacja pobierałaby strumień audio wysyłany przez ogranizatorów, oraz odtwarzała go w sposób zsynchronizowany z zegarem, tak, aby kilka megafonów działających na raz wspierało się nawzajem.
   </p>
   <p>Inną funkcją, jaką mógłaby pełnić aplikacja <i>Megafon</i> jest możliwość komentowania lub głosowania przez osoby uczestniczące w demonstracji. Wtedy moglibyśmy dać uczestnikom głos w kompletnie nowy sposób!</p>
   <p>Aplikacja mogłaby być <a href="https://developers.google.com/web/progressive-web-apps/">aplikacją webową</a>, której można używać bez instalacji.</p>
