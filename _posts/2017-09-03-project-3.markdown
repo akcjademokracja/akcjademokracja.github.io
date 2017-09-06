@@ -10,7 +10,7 @@ category: Aplikacje mobilne oraz webowe do sieci Riot
 title: Czatuj
 short: Węzeł sieci Riot.im, który jest zintegrowany z systemami Akcji Demokracji
 description: |
-  Uruchomiliśmy węzeł bezpiecznego, sfederowanego komunikatora <a href="https://riot.im" target="_blank">Riot.im</a>, w domenie <a href="https://czatuj.naszademokracja.pl">https://czatuj.naszademokracja.pl</a> dla aktywistek i aktywistów <a href="https://naszademokracja.pl">Naszej Demokracji</a>.
+  Uruchomiliśmy węzeł bezpiecznego, sfederowanego komunikatora <a href="https://riot.im" target="_blank">Riot (protokół Matrix)</a>, w domenie <a href="https://czatuj.naszademokracja.pl">https://czatuj.naszademokracja.pl</a> dla aktywistek i aktywistów <a href="https://naszademokracja.pl">Naszej Demokracji</a>.
   
   Z komunikatora można korzystać za pomocą klienta webowego (<a
   href="https://github.com/vector-im/riot-web">riot-web</a>) oraz aplikacji mobilnych na Android i
